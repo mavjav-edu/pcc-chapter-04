@@ -89,4 +89,4 @@ if you haven’t already done so (see [Appendix B](../appendix_b/README.md) for 
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-03)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-05)
+[&#10094; Prev](../../../pcc-chapter-03)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-05)
