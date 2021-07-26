@@ -1,5 +1,5 @@
 # Working With Lists
-In ../../../pcc_2e/tree/master/chapter_03 you learned how to make a simple list,
+In [Chapter 3](../../../pcc_2e/tree/master/chapter_03) you learned how to make a simple list,
 and you learned to work with the individual elements in a list. In this
 chapter you’ll learn how to *loop* through an entire list using just a
 few lines of code regardless of how long the list is. Looping allows you
