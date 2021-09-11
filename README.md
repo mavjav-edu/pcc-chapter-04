@@ -43,7 +43,6 @@ dog would make a great pet.*
 in common. You could print a sentence such as *Any of these animals
 would make a great pet!*
 
-
 ## TRY IT YOURSELF Ⓑ
 
 <span id="ch4exe3"></span>**4-3. Counting to Twenty:** Use a `for` loop
@@ -92,7 +91,7 @@ a slice to print three items from the middle of the list.
 slice to print the last three items in the list.
 
 <span id="ch4exe11"></span>**4-11. My Pizzas, Your Pizzas:** Start with
-your program from [Exercise 4-1](../../../pcc_2e/tree/master/chapter_04/README.md#ch4exe1) ([page
+your program from [Exercise 4-1](#ch4exe1) ([page
 60](#page_60)). Make a copy of the list of pizzas, and call it
 `friend_pizzas`. Then, do the following:
 
@@ -126,8 +125,6 @@ change.
 different foods. Add a block of code that rewrites the tuple, and then
 use a `for` loop to print each of the items on the revised menu.
 
-
-
 <span id="page_74"></span>
 ## TRY IT YOURSELF Ⓔ
 
@@ -142,11 +139,10 @@ with PEP 8:
 
 - Use four spaces for each indentation level. Set your text editor to
 insert four spaces every time you press <span class="small">TAB</span>,
-if you haven&rsquo;t already done so (see ../../../pcc_2e/tree/master/appendix_b for
+if you haven&rsquo;t already done so (see [appendix b](../../../pcc_2e/tree/master/appendix_b) for
 instructions on how to do this).
 
 - Use less than 80 characters on each line, and set your editor to show
 a vertical guideline at the 80th character position.
 
 - Don&rsquo;t use blank lines excessively in your program files.
-
